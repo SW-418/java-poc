@@ -1,10 +1,10 @@
-package java.app.javapoc;
+package sw.app.poc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaPocApplicationTests {
+class PocApplicationTests {
 
 	@Test
 	void contextLoads() {
